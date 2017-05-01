@@ -37,9 +37,9 @@ h2 {
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
 
-  .jumbotron {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-bottom: 30px;
-    color: inherit;
-    background-color: seashell;
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: seashell;
