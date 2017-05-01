@@ -6,15 +6,11 @@
 
 ## Description
 
-Testing my knowelge of the first week at Epicodus
+ My resume about machinist
+ Using Bootstrap to webpage
+
 
 ## Setup/Installation Requirements
-
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
 
 ## Known Bugs
 
