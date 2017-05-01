@@ -11,7 +11,7 @@
 
 
 ## Setup/Installation Requirements
-You can clone or download it in a tax editor of your choice at website: https://github.com/phat14191/ResummitWeek1.git  enjoying watching my first project, just let me know if you have any question. You can watch online by this link: https://phat14191.github.io/FixedFirstWeek/
+You can clone or download it in a tax editor of your choice at website: https://github.com/phat14191/FixedFirstWeek  enjoying watching my first project, just let me know if you have any question. You can watch online by this link: https://phat14191.github.io/FixedFirstWeek/
 
 ## Known Bugs
 
